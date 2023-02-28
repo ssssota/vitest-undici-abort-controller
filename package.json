@@ -1,0 +1,24 @@
+{
+  "name": "vitest-undici",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@edge-runtime/vm": "^2.0.5",
+    "happy-dom": "^8.9.0",
+    "jsdom": "^21.1.0",
+    "vitest": "^0.29.1"
+  },
+  "dependencies": {
+    "undici": "^5.20.0",
+    "undici-5.18.0": "npm:undici@=5.18.0",
+    "undici-5.19.0": "npm:undici@=5.19.0"
+  },
+  "packageManager": "pnpm@7.28.0"
+}
